@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1d543d5-5143-4e2c-a07f-603a883ef1f3" name="Default Changelist" comment="" />
+    <list default="true" id="c1d543d5-5143-4e2c-a07f-603a883ef1f3" name="Default Changelist" comment="双魔方相册">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiqingmofang/index_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/aiqingmofang/index_0.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1js3yJ5N1FZwItDtveJnWRRZdGX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,7 +44,8 @@
       <workItem from="1604579226217" duration="1928000" />
       <workItem from="1604581183072" duration="163000" />
       <workItem from="1606978336455" duration="3277000" />
-      <workItem from="1606981657454" duration="105000" />
+      <workItem from="1606981657454" duration="602000" />
+      <workItem from="1608082921372" duration="247000" />
     </task>
     <servers />
   </component>
@@ -50,9 +57,17 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1604579251122" />
-    <state x="142" y="5" key="SettingsEditor" timestamp="1606981762343">
+    <state x="488" y="258" key="Github.ShareDialog" timestamp="1606981773297">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1606981762343" />
+    <state x="488" y="258" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1606981773297" />
+    <state x="502" y="63" key="Github.UntrackedFilesDialog" timestamp="1606981780537">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="502" y="63" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1606981780537" />
+    <state x="142" y="5" key="SettingsEditor" timestamp="1608082953100">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1608082953100" />
   </component>
 </project>
